@@ -71,7 +71,7 @@ syn match latexBord	/\[\/\?$$\?\]/
 
 
 " "Simple literals" line from the Scheme file, with "contains" modified.
-syn region schemeString start=+\%(\\\)\@<!"+ skip=+\\[\\"]+ end=+"+ contains=ankiWildcard,latexBord,ankiField
+syn region schemeString start=+\%(\\\)\@<!"+ skip=+\\[\\"]+ end=+"+ contains=ankiWildcard,latexBord,ankiField keepend
 
 hi def link ankiField	Function
 hi def link ankiSyntax	Statement
