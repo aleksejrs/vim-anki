@@ -89,7 +89,7 @@ syn match	commentKw	/\<Цель:/	contained
 "syn match	commentKw	/\<подзадача:/	contained
 
 " Priority:
-syn match	importanceurgency		/\(\(не\)\?важное\|???\) \(\(не\)\?срочное\|???\)/	contained
+syn match	importanceurgency		/\(\(не\)\?важ\(ное\?\)\?\|???\) \(\(не\)\?сроч\(ное\?\)\?\|???\)/	contained
 syn match	filtComment	";.*$" contains=commentKw,importanceurgency
 
 hi def link commentKw	Todo
