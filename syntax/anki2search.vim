@@ -1,13 +1,14 @@
 " Vim syntax file
 " Language:	Anki 2.0 search filters + comments
 " Last Change:	2016 Jan 12
+" Maintainer:	Aleksej <deletesoftware@yandex.ru>
 
 
-" Based on:
-" Language:	Scheme (R5RS + some R6RS extras)
-" Last Change:	2012 May 13
-" Maintainer:	Sergey Khorev <sergey.khorev@gmail.com>
-" Original author:	Dirk van Deun <dirk@igwe.vub.ac.be>
+"" Based on:
+"" Language:	Scheme (R5RS + some R6RS extras)
+"" Last Change:	2012 May 13
+"" Maintainer:	Sergey Khorev <sergey.khorev@gmail.com>
+"" Original author:	Dirk van Deun <dirk@igwe.vub.ac.be>
 
 
 " Initializing:
