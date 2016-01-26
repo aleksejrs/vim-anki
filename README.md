@@ -1,4 +1,4 @@
-Vim 7.4 syntax highlighting file for Anki 2.0.33 search queries (browser or filtered decks).  Added to the queries are comments with goal and importance/urgency notes.
+Vim 7.4 syntax highlighting file for Anki 2.0.33 search queries (browser or filtered decks).  Added to the queries are comments with goal and importance/urgency notes (they are not supported by Anki itself, but removed by shell scripts which include “`|egrep -v "^\s*(;|--)"`”).
 
 
 ## Based on:
