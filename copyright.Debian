@@ -1,11 +1,13 @@
-This is the Debian pre-packaged version of vim.  Vim is an almost compatible
-version of the UNIX editor Vi.  Many new features have been added: multi level
-undo, syntax highlighting, command line history, on-line help, filename
-completion, block operations, etc.
+The original scheme.vim and this license file (corrected to refer to the
+original instead of being the original) are from the Debian pre-packaged
+version of vim.  Vim is an almost compatible version of the UNIX editor Vi.
+Many new features have been added: multi level undo, syntax highlighting,
+command line history, on-line help, filename completion, block operations, etc.
 
-This package was put together by Wichert Akkerman <wakkerma@debian.org> from
-sources obtained from: ftp://ftp.vim.org/pub/vim/unix/. The current maintainer
-is Debian VIM Maintainers <pkg-vim-maintainers@lists.alioth.debian.org>.
+The Debian package was put together by Wichert Akkerman <wakkerma@debian.org>
+from sources obtained from: ftp://ftp.vim.org/pub/vim/unix/. The current
+maintainer is Debian VIM Maintainers
+<pkg-vim-maintainers@lists.alioth.debian.org>.
 
 Vim was written by Bram Moolenaar.  The following copying conditions are taken
 from the online documentation.
